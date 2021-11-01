@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Lithuania</h3>
 
 - 📚 Curently I am studying at: **KTU university**
-
+- 💼 Working at: **NFQ**
 - 📫 How to reach me: **kutkarapolas@gmail.com**
 
 
