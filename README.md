@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rapolas</h1>
-<h3 align="center">Developer from Lithuania</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 - 📚 Curently I am studying at: **KTU university**
 - 💼 Working at: **NFQ**
